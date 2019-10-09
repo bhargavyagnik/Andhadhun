@@ -3,3 +3,6 @@ An Application that opens doors for disabled and lazy people to control PC using
 <h3>Front Screen </h3>
 
 ![alt text](https://github.com/bhargavyagnik/Andhadhun/blob/master/Assets/splash.png)
+
+The Overlay Bar for easy Access
+![alt text](https://github.com/bhargavyagnik/Andhadhun/blob/master/Assets/gamebar.png)
